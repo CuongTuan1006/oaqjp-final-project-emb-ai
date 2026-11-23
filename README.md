@@ -1,1 +1,1 @@
-# Emotion Detection Application
+# Final project
